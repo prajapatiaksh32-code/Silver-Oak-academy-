@@ -1,0 +1,6 @@
+{
+  "name": "Silver Oak Academy",
+  "description": "Official website of Silver Oak Academy, Mahadev Ashram Path, Lohardaga, Jharkhand — Transforming Learners into Leaders. Offering Nursery to Class VIII based on the CBSE curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
